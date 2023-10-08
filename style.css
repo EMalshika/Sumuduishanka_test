@@ -394,6 +394,12 @@ input::placeholder {
     top: 0;
 }
 
+.experience_contents {
+    justify-content: center;
+    width: 800px;
+    position: relative;
+}
+
 .experience_contents h2 {
     color: #fff;
     font-size: 35px;
