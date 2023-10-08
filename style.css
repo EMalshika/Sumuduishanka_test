@@ -542,7 +542,6 @@ h6 {
     justify-content: center;
     border-radius: 10px;
     font-size: 25px;
-    text-decoration: none;
 }
 
 .location {
@@ -606,7 +605,7 @@ h6 {
 
 .footer {
     text-align: center;
-    font-size: 20px;
+    font-size: 50px;
     color: var(--secondary);
     padding: 100px 0px;
 }
