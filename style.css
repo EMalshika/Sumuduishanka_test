@@ -605,9 +605,15 @@ h6 {
 
 .footer {
     text-align: center;
-    font-size: 50px;
+    font-size: 20px;
     color: var(--secondary);
-    padding: 5px 0px;
+    padding: 30px 0px;
+}
+.footer p{
+    color: white;
+}
+.footer p a{
+    color: #90b956;
 }
 
 
