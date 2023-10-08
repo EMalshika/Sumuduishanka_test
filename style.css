@@ -542,6 +542,7 @@ h6 {
     justify-content: center;
     border-radius: 10px;
     font-size: 25px;
+    text-decoration: none;
 }
 
 .location {
